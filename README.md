@@ -29,6 +29,7 @@ opencode.jsonc          Architect ve worktree klasörü ayarı
    ```
 
    Varsayılan konum proje içindeki `.worktrees\frontend` ve `.worktrees\backend` klasörleridir.
+   Klasörleri yanlışlıkla sildiyseniz aynı komutu tekrar çalıştırabilirsiniz. Betik kalan Git kayıtlarını temizler ve mevcut branch'lerden klasörleri yeniden açar. Commit edilmemiş değişiklikler silinen klasörden geri getirilemez.
 
 3. Architect oturumunu bu proje klasöründe başlatın:
 
